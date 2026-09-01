@@ -1,0 +1,16 @@
+<svg width="800" height="900" viewBox="0 0 800 900" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="aboutImgTitle">
+  <title id="aboutImgTitle">Fotografía de la estudiante de Derecho (placeholder)</title>
+  <defs>
+    <linearGradient id="bgGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#122c47"/>
+      <stop offset="100%" stop-color="#071624"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="900" fill="url(#bgGrad2)"/>
+  <rect x="0" y="0" width="800" height="900" fill="none" stroke="#c9a34e" stroke-opacity="0.35" stroke-width="10"/>
+  <g fill="#e4cf9c" opacity="0.9">
+    <circle cx="400" cy="330" r="105"/>
+    <path d="M400 440 C270 440 190 535 180 680 L620 680 C610 535 530 440 400 440 Z"/>
+  </g>
+  <text x="400" y="800" text-anchor="middle" font-family="Playfair Display, Georgia, serif" font-size="26" fill="#f5f6f8">Conoce a María</text>
+</svg>

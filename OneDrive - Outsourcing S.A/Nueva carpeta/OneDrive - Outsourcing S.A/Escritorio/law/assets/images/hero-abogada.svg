@@ -1,0 +1,27 @@
+<svg width="900" height="1100" viewBox="0 0 900 1100" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="heroImgTitle">
+  <title id="heroImgTitle">Fotografía de la estudiante de Derecho (placeholder)</title>
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0e2a44"/>
+      <stop offset="55%" stop-color="#0a1f33"/>
+      <stop offset="100%" stop-color="#071624"/>
+    </linearGradient>
+    <linearGradient id="goldLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#c9a34e" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#c9a34e" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#c9a34e" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1100" fill="url(#bgGrad)"/>
+  <g opacity="0.08" stroke="#e4cf9c" stroke-width="1">
+    <circle cx="450" cy="470" r="330"/>
+    <circle cx="450" cy="470" r="270"/>
+  </g>
+  <g fill="#e4cf9c" opacity="0.9">
+    <circle cx="450" cy="380" r="120"/>
+    <path d="M450 500 C310 500 220 600 210 760 L690 760 C680 600 590 500 450 500 Z"/>
+  </g>
+  <rect x="180" y="890" width="540" height="2" fill="url(#goldLine)"/>
+  <text x="450" y="960" text-anchor="middle" font-family="Playfair Display, Georgia, serif" font-size="30" fill="#f5f6f8" letter-spacing="1">María Paz García Hernandez</text>
+  <text x="450" y="1000" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="18" letter-spacing="4" fill="#c9a34e">ESTUDIANTE DE DERECHO</text>
+</svg>
